@@ -1,0 +1,59 @@
+about:
+  description: Make Any Website into CLI & Use your logged-in browser by AI agent. 
+  license: Apache-2.0
+  homepage: https://opencli.info/
+  head: 8271afc
+  archived: false
+  latestVersion: v1.8.8
+  collectedAt: 2026-09-01T05:13:34Z
+timeline:
+  created: 2026-03-14
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-30
+popularity:
+  star: 28791
+  watcher: 61
+  fork: 2826
+  release: 113
+  contributor: 259
+  pullRequest: 515
+  issue: 583
+language:
+  JavaScript: 10855615
+  TypeScript: 2398518
+  HTML: 335346
+  Shell: 2988
+totalLine: 13592467
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 108
+    openPR: 30
+    closedIssue: 29
+    openIssue: 31
+    commit: 116
+  last90d:
+    since: 2026-06-03
+    release: 7
+    mergedPR: 257
+    openPR: 103
+    closedIssue: 95
+    openIssue: 60
+    commit: 245
+  last180d:
+    since: 2026-03-05
+    release: 100
+    mergedPR: 1335
+    openPR: 140
+    closedIssue: 503
+    openIssue: 80
+    commit: 1580
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 1335
+    openPR: 140
+    closedIssue: 503
+    openIssue: 80
+    commit: 1580
