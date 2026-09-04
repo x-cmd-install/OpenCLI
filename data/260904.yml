@@ -7,7 +7,7 @@ about:
   head: 8271afc
   archived: false
   latestVersion: v1.8.8
-  collectedAt: 2026-09-04T19:36:50Z
+  collectedAt: 2026-09-04T20:57:51Z
 timeline:
   created: 2026-03-14
   lastCommit: 2026-08-30
@@ -83,5 +83,53 @@ total:
   openIssue: 81
   commit: 1592
 ---
+path: /home/runner/.x-repo/github.com/jackwener/OpenCLI
+collectedAt: 2026-09-04T20:57:53Z
+loc:
+  JavaScript:
+    code: 233043
+    comments: 9960
+    blanks: 13641
+    files: 1970
+  Json:
+    code: 63567
+    comments: 0
+    blanks: 0
+    files: 19
+  TypeScript:
+    code: 51812
+    comments: 4950
+    blanks: 6547
+    files: 249
+  Html:
+    code: 1911
+    comments: 38
+    blanks: 187
+    files: 13
+  Yaml:
+    code: 97
+    comments: 0
+    blanks: 12
+    files: 1
+  Sh:
+    code: 78
+    comments: 21
+    blanks: 11
+    files: 4
+  Markdown:
+    code: 0
+    comments: 16968
+    blanks: 6974
+    files: 312
+  Text:
+    code: 0
+    comments: 71
+    blanks: 35
+    files: 4
+total:
+  code: 354937
+  comments: 33417
+  blanks: 28519
+  files: 2572
 ---
 
