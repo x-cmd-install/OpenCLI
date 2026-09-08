@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45776,
       "digest": "sha256:bad9163f32a66224404e302f52f35391672341d2bd0bf30c8bbaae3c6e6e246c",
-      "download_count": 2440,
+      "download_count": 2549,
       "created_at": "2026-08-30T17:37:07Z",
       "updated_at": "2026-08-30T17:37:07Z",
       "browser_download_url": "https://github.com/jackwener/OpenCLI/releases/download/v1.8.8/opencli-extension-v1.0.24.zip"
