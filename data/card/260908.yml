@@ -5,13 +5,13 @@ about:
   head: 8271afc
   archived: false
   latestVersion: "v1.8.8"
-  collectedAt: 2026-09-08T02:25:20Z
+  collectedAt: 2026-09-08T05:16:48Z
 timeline:
   created: 2026-03-14
   lastCommit: 2026-08-30
   lastRelease: 2026-08-30
 popularity:
-  star: 29075
+  star: 29082
   watcher: 63
   fork: 2850
   release: 113
@@ -82,7 +82,7 @@ total:
   commit: 1592
 ---
 path: /home/runner/.x-repo/github.com/jackwener/OpenCLI
-collectedAt: 2026-09-08T02:25:30Z
+collectedAt: 2026-09-08T05:16:54Z
 loc:
   JavaScript:
     code: 233043
