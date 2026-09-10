@@ -4,7 +4,7 @@
 
 Make Any Website into CLI & Use your logged-in browser by AI agent. 
 
-![OpenCLI](https://repo.x-cmd.io/OpenCLI.svg)
+![OpenCLI](https://repo.x-cmd.io/OpenCLI.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,28 @@ x install OpenCLI
 - **最新版本**: `v1.8.8` (2026-08-30)
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-08-30T17:37:08Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [opencli-extension-v1.0.24.zip](https://github.com/jackwener/OpenCLI/releases/download/v1.8.8/opencli-extension-v1.0.24.zip) | 44.7 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 29,165 · **Fork**: 2,859 · **开放 issue**: 594 · **贡献者**: 259
+- **Star**: 29,176 · **Fork**: 2,858 · **开放 issue**: 596 · **贡献者**: 259
 
 ## 累计统计
 
-- **发布数**: 113 · **已合并 PR**: 1335 · **开放 PR**: 162 · **已关闭 issue**: 504 · **开放 issue**: 90 · **提交数**: 1592
+- **发布数**: 113 · **已合并 PR**: 1335 · **开放 PR**: 158 · **已关闭 issue**: 504 · **开放 issue**: 92 · **提交数**: 1592
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 83 | 51 | 16 | 40 | 100 |
-| 90d | 2026-06-12 | 6 | 228 | 106 | 85 | 65 | 230 |
-| 360d | 2025-09-15 | 100 | 1335 | 162 | 504 | 90 | 1580 |
+| 30d | 2026-08-11 | 2 | 83 | 47 | 16 | 42 | 100 |
+| 90d | 2026-06-12 | 6 | 228 | 102 | 85 | 67 | 230 |
+| 360d | 2025-09-15 | 100 | 1335 | 158 | 504 | 92 | 1580 |
 
 ## 代码规模
 
@@ -62,4 +67,4 @@ OpenCLI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:34:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:04:47Z._
