@@ -12,6 +12,18 @@ Make Any Website into CLI & Use your logged-in browser by AI agent.
 x install OpenCLI
 ```
 
+## 代码洞察
+
+合计: **350,508** 行代码（覆盖前 5 种语言、共 **2252** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| JavaScript | 233,043 | 9,960 | 13,641 | 1970 |
+| Json | 63,567 | 0 | 0 | 19 |
+| TypeScript | 51,812 | 4,950 | 6,547 | 249 |
+| Html | 1,911 | 38 | 187 | 13 |
+| Yaml | 97 | 0 | 12 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/jackwener/OpenCLI>
@@ -24,15 +36,9 @@ x install OpenCLI
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 1 个
 
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [opencli-extension-v1.0.24.zip](https://github.com/jackwener/OpenCLI/releases/download/v1.8.8/opencli-extension-v1.0.24.zip) | 44.7 KiB | `other` |
-
 ## 流行度
 
-- **Star**: 29,176 · **Fork**: 2,858 · **开放 issue**: 596 · **贡献者**: 259
+- **Star**: 29,181 · **Fork**: 2,861 · **开放 issue**: 596 · **贡献者**: 259
 
 ## 累计统计
 
@@ -42,21 +48,18 @@ x install OpenCLI
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 83 | 47 | 16 | 42 | 100 |
-| 90d | 2026-06-12 | 6 | 228 | 102 | 85 | 67 | 230 |
-| 360d | 2025-09-15 | 100 | 1335 | 158 | 504 | 92 | 1580 |
+| 30d | 2026-08-12 | 2 | 81 | 47 | 15 | 41 | 100 |
+| last60d | 2026-07-13 | 2 | 140 | 67 | 53 | 52 | 147 |
+| 90d | 2026-06-13 | 6 | 223 | 98 | 85 | 65 | 230 |
+| last180d | 2026-03-15 | 100 | 1334 | 158 | 495 | 92 | 1455 |
+| 360d | 2025-09-16 | 100 | 1335 | 158 | 504 | 92 | 1580 |
+| last720d | 2024-09-21 | 100 | 1335 | 158 | 504 | 92 | 1592 |
 
-## 代码规模
+## Release 资产
 
-合计: **350,508** 行代码（覆盖前 5 种语言、共 **2252** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| JavaScript | 233,043 | 9,960 | 13,641 | 1970 |
-| Json | 63,567 | 0 | 0 | 19 |
-| TypeScript | 51,812 | 4,950 | 6,547 | 249 |
-| Html | 1,911 | 38 | 187 | 13 |
-| Yaml | 97 | 0 | 12 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [opencli-extension-v1.0.24.zip](https://github.com/jackwener/OpenCLI/releases/download/v1.8.8/opencli-extension-v1.0.24.zip) | 44.7 KiB | `other` |
 
 ## 改进这些数据
 
@@ -67,4 +70,4 @@ OpenCLI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T17:04:47Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:05:20Z._

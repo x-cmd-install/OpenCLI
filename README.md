@@ -12,6 +12,18 @@ Make Any Website into CLI & Use your logged-in browser by AI agent.
 x install OpenCLI
 ```
 
+## Code insight
+
+Total: **350,508** lines of code across **2252** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| JavaScript | 233,043 | 9,960 | 13,641 | 1970 |
+| Json | 63,567 | 0 | 0 | 19 |
+| TypeScript | 51,812 | 4,950 | 6,547 | 249 |
+| Html | 1,911 | 38 | 187 | 13 |
+| Yaml | 97 | 0 | 12 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/jackwener/OpenCLI>
@@ -24,15 +36,9 @@ x install OpenCLI
 - **Last commit**: 2026-08-30
 - **Assets in release**: 1
 
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [opencli-extension-v1.0.24.zip](https://github.com/jackwener/OpenCLI/releases/download/v1.8.8/opencli-extension-v1.0.24.zip) | 44.7 KiB | `other` |
-
 ## Popularity
 
-- **Stars**: 29,176 · **Forks**: 2,858 · **Open issues**: 596 · **Contributors**: 259
+- **Stars**: 29,181 · **Forks**: 2,861 · **Open issues**: 596 · **Contributors**: 259
 
 ## Totals (cumulative)
 
@@ -42,21 +48,18 @@ x install OpenCLI
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 83 | 47 | 16 | 42 | 100 |
-| 90d | 2026-06-12 | 6 | 228 | 102 | 85 | 67 | 230 |
-| 360d | 2025-09-15 | 100 | 1335 | 158 | 504 | 92 | 1580 |
+| 30d | 2026-08-12 | 2 | 81 | 47 | 15 | 41 | 100 |
+| last60d | 2026-07-13 | 2 | 140 | 67 | 53 | 52 | 147 |
+| 90d | 2026-06-13 | 6 | 223 | 98 | 85 | 65 | 230 |
+| last180d | 2026-03-15 | 100 | 1334 | 158 | 495 | 92 | 1455 |
+| 360d | 2025-09-16 | 100 | 1335 | 158 | 504 | 92 | 1580 |
+| last720d | 2024-09-21 | 100 | 1335 | 158 | 504 | 92 | 1592 |
 
-## Code size
+## Release assets
 
-Total: **350,508** lines of code across **2252** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| JavaScript | 233,043 | 9,960 | 13,641 | 1970 |
-| Json | 63,567 | 0 | 0 | 19 |
-| TypeScript | 51,812 | 4,950 | 6,547 | 249 |
-| Html | 1,911 | 38 | 187 | 13 |
-| Yaml | 97 | 0 | 12 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [opencli-extension-v1.0.24.zip](https://github.com/jackwener/OpenCLI/releases/download/v1.8.8/opencli-extension-v1.0.24.zip) | 44.7 KiB | `other` |
 
 ## Improve this data
 
@@ -67,4 +70,4 @@ Install metadata for OpenCLI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:46Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:05:20Z._
