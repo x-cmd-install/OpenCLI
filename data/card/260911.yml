@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.8.8"
   latestRelease: "v1.8.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:05:12Z
+  collectedAt: 2026-09-11T05:21:47Z
 timeline:
   created: 2026-03-14
   lastCommit: 2026-08-30
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-30
   lastPrerelease: 
 popularity:
-  star: 29181
+  star: 29193
   watcher: 62
-  fork: 2861
+  fork: 2862
   release: 113
   contributor: 259
-  pullRequest: 1875
-  issue: 596
+  pullRequest: 1876
+  issue: 597
 language:
   JavaScript: 10855615
   TypeScript: 2398518
@@ -33,60 +33,60 @@ recent:
     since: 2026-08-12
     release: 2
     mergedPR: 81
-    openPR: 47
+    openPR: 48
     closedIssue: 15
-    openIssue: 41
+    openIssue: 42
     commit: 100
   last60d:
     since: 2026-07-13
     release: 2
     mergedPR: 140
-    openPR: 67
+    openPR: 68
     closedIssue: 53
-    openIssue: 52
+    openIssue: 53
     commit: 147
   last90d:
     since: 2026-06-13
     release: 6
     mergedPR: 223
-    openPR: 98
+    openPR: 99
     closedIssue: 85
-    openIssue: 65
+    openIssue: 66
     commit: 230
   last180d:
     since: 2026-03-15
     release: 100
     mergedPR: 1334
-    openPR: 158
+    openPR: 159
     closedIssue: 495
-    openIssue: 92
+    openIssue: 93
     commit: 1455
   last360d:
     since: 2025-09-16
     release: 100
     mergedPR: 1335
-    openPR: 158
+    openPR: 159
     closedIssue: 504
-    openIssue: 92
+    openIssue: 93
     commit: 1580
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 1335
-    openPR: 158
+    openPR: 159
     closedIssue: 504
-    openIssue: 92
+    openIssue: 93
     commit: 1592
 total:
   release: 113
   mergedPR: 1335
-  openPR: 158
+  openPR: 159
   closedIssue: 504
-  openIssue: 92
+  openIssue: 93
   commit: 1592
 ---
 path: /home/runner/.x-repo/github.com/jackwener/OpenCLI
-collectedAt: 2026-09-11T00:05:16Z
+collectedAt: 2026-09-11T05:21:51Z
 loc:
   JavaScript:
     code: 233043
