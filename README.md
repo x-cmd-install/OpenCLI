@@ -4,7 +4,7 @@
 
 Make Any Website into CLI & Use your logged-in browser by AI agent. 
 
-![OpenCLI](https://repo.x-cmd.io/OpenCLI.svg)
+[![x-cmd/install — OpenCLI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenCLI.svg)](https://x-cmd.com/install/OpenCLI)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **350,508** lines of code across **2252** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,412 · **Forks**: 2,875 · **Open issues**: 602 · **Contributors**: 258
+- **Stars**: 29,473 · **Forks**: 2,879 · **Open issues**: 602 · **Contributors**: 258
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 1333 · **Open PRs**: 179 · **Closed issues**: 505 · **Open issues**: 97 · **Commits**: 1592
+- **Releases**: 113 · **Merged PRs**: 1333 · **Open PRs**: 182 · **Closed issues**: 505 · **Open issues**: 97 · **Commits**: 1592
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 69 | 64 | 13 | 45 | 99 |
-| last60d | 2026-07-20 | 2 | 126 | 84 | 45 | 57 | 136 |
-| 90d | 2026-06-20 | 5 | 199 | 112 | 80 | 67 | 207 |
-| last180d | 2026-03-22 | 67 | 1199 | 179 | 435 | 97 | 1183 |
-| 360d | 2025-09-23 | 100 | 1333 | 179 | 505 | 97 | 1580 |
-| last720d | 2024-09-28 | 100 | 1333 | 179 | 505 | 97 | 1592 |
+| 30d | 2026-08-21 | 2 | 66 | 67 | 11 | 42 | 99 |
+| last60d | 2026-07-22 | 2 | 126 | 85 | 45 | 54 | 136 |
+| 90d | 2026-06-22 | 5 | 194 | 113 | 77 | 66 | 207 |
+| last180d | 2026-03-24 | 56 | 1113 | 180 | 415 | 96 | 1183 |
+| 360d | 2025-09-25 | 100 | 1333 | 182 | 505 | 97 | 1580 |
+| last720d | 2024-09-30 | 100 | 1333 | 182 | 505 | 97 | 1592 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for OpenCLI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:25:09Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:37:37Z._
