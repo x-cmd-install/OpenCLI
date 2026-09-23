@@ -4,7 +4,7 @@
 
 Make Any Website into CLI & Use your logged-in browser by AI agent. 
 
-[![x-cmd/install — OpenCLI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenCLI.svg?lang=zh)](https://x-cmd.com/install/OpenCLI)
+[![x-cmd/install — OpenCLI Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/OpenCLI.svg?lang=zh)](https://x-cmd.com/install/OpenCLI)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install OpenCLI
 
 ## 流行度
 
-- **Star**: 29,541 · **Fork**: 2,887 · **开放 issue**: 606 · **贡献者**: 258
+- **Star**: 29,573 · **Fork**: 2,889 · **开放 issue**: 606 · **贡献者**: 258
 
 ## 累计统计
 
-- **发布数**: 113 · **已合并 PR**: 1333 · **开放 PR**: 185 · **已关闭 issue**: 505 · **开放 issue**: 101 · **提交数**: 1592
+- **发布数**: 113 · **已合并 PR**: 1333 · **开放 PR**: 186 · **已关闭 issue**: 505 · **开放 issue**: 101 · **提交数**: 1592
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 27 | 70 | 6 | 42 | 12 |
-| last60d | 2026-07-24 | 2 | 124 | 86 | 43 | 55 | 136 |
-| 90d | 2026-06-24 | 5 | 187 | 107 | 76 | 68 | 187 |
-| last180d | 2026-03-26 | 54 | 1062 | 182 | 397 | 100 | 995 |
-| 360d | 2025-09-27 | 100 | 1333 | 185 | 505 | 101 | 1580 |
-| last720d | 2024-10-02 | 100 | 1333 | 185 | 505 | 101 | 1592 |
+| 30d | 2026-08-24 | 1 | 15 | 69 | 6 | 40 | 12 |
+| last60d | 2026-07-25 | 2 | 123 | 86 | 43 | 55 | 136 |
+| 90d | 2026-06-25 | 5 | 186 | 107 | 75 | 68 | 187 |
+| last180d | 2026-03-27 | 53 | 1035 | 182 | 383 | 100 | 995 |
+| 360d | 2025-09-28 | 100 | 1333 | 186 | 505 | 101 | 1580 |
+| last720d | 2024-10-03 | 100 | 1333 | 186 | 505 | 101 | 1592 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ OpenCLI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:35:21Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:33:24Z._
