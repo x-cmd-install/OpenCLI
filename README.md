@@ -38,22 +38,22 @@ Total: **331,680** lines of code across **2117** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,282 · **Forks**: 2,966 · **Open issues**: 641 · **Contributors**: 266
+- **Stars**: 30,320 · **Forks**: 2,977 · **Open issues**: 642 · **Contributors**: 266
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 1344 · **Open PRs**: 183 · **Closed issues**: 538 · **Open issues**: 103 · **Commits**: 1604
+- **Releases**: 113 · **Merged PRs**: 1344 · **Open PRs**: 189 · **Closed issues**: 538 · **Open issues**: 104 · **Commits**: 1604
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 12 | 27 | 16 | 27 | 12 |
-| last60d | 2026-08-16 | 2 | 87 | 74 | 45 | 54 | 111 |
-| 90d | 2026-07-17 | 2 | 145 | 95 | 83 | 63 | 151 |
-| last180d | 2026-04-18 | 28 | 718 | 175 | 279 | 95 | 713 |
-| 360d | 2025-10-20 | 100 | 1344 | 183 | 538 | 103 | 1591 |
-| last720d | 2024-10-25 | 100 | 1344 | 183 | 538 | 103 | 1604 |
+| 30d | 2026-09-16 | 0 | 12 | 33 | 15 | 28 | 12 |
+| last60d | 2026-08-17 | 2 | 86 | 78 | 45 | 55 | 111 |
+| 90d | 2026-07-18 | 2 | 143 | 101 | 82 | 64 | 151 |
+| last180d | 2026-04-19 | 28 | 715 | 181 | 278 | 96 | 713 |
+| 360d | 2025-10-21 | 100 | 1344 | 189 | 538 | 104 | 1591 |
+| last720d | 2024-10-26 | 100 | 1344 | 189 | 538 | 104 | 1604 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for OpenCLI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:06:28Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:10:44Z._
