@@ -14,12 +14,12 @@ x install OpenCLI
 
 ## Code insight
 
-Total: **320,330** lines of code across **2055** files in the top 5 languages.
+Total: **320,570** lines of code across **2057** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 207,996 | 9,661 | 11,584 | 1761 |
-| Json | 59,674 | 0 | 0 | 19 |
+| JavaScript | 208,235 | 9,664 | 11,603 | 1763 |
+| Json | 59,675 | 0 | 0 | 19 |
 | TypeScript | 50,679 | 4,584 | 6,317 | 258 |
 | Html | 1,911 | 38 | 187 | 13 |
 | Sh | 70 | 20 | 11 | 4 |
@@ -32,34 +32,34 @@ Total: **320,330** lines of code across **2055** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.1` (2026-10-19)
-- **Last commit**: 2026-10-19
+- **Latest**: `v2.0.2` (2026-10-20)
+- **Last commit**: 2026-10-20
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 30,446 · **Forks**: 3,073 · **Open issues**: 649 · **Contributors**: 268
+- **Stars**: 30,481 · **Forks**: 2,987 · **Open issues**: 650 · **Contributors**: 268
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 1389 · **Open PRs**: 172 · **Closed issues**: 554 · **Open issues**: 95 · **Commits**: 1649
+- **Releases**: 116 · **Merged PRs**: 1391 · **Open PRs**: 176 · **Closed issues**: 555 · **Open issues**: 95 · **Commits**: 1651
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 53 | 16 | 25 | 20 | 57 |
-| last60d | 2026-08-21 | 4 | 123 | 61 | 57 | 44 | 72 |
-| 90d | 2026-07-22 | 4 | 183 | 79 | 94 | 53 | 193 |
-| last180d | 2026-04-23 | 27 | 714 | 163 | 275 | 87 | 703 |
-| 360d | 2025-10-25 | 100 | 1389 | 172 | 554 | 95 | 1636 |
-| last720d | 2024-10-30 | 100 | 1389 | 172 | 554 | 95 | 1649 |
+| 30d | 2026-09-21 | 3 | 55 | 19 | 25 | 20 | 59 |
+| last60d | 2026-08-22 | 5 | 123 | 65 | 57 | 42 | 74 |
+| 90d | 2026-07-23 | 5 | 184 | 81 | 94 | 50 | 195 |
+| last180d | 2026-04-24 | 28 | 713 | 167 | 273 | 87 | 705 |
+| 360d | 2025-10-26 | 100 | 1391 | 176 | 555 | 95 | 1638 |
+| last720d | 2024-10-31 | 100 | 1391 | 176 | 555 | 95 | 1651 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [opencli-extension-v1.0.26.zip](https://github.com/jackwener/OpenCLI/releases/download/v2.0.1/opencli-extension-v1.0.26.zip) | 47.1 KiB | `other` |
+| [opencli-extension-v1.0.26.zip](https://github.com/jackwener/OpenCLI/releases/download/v2.0.2/opencli-extension-v1.0.26.zip) | 47.1 KiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for OpenCLI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:22:00Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:18:05Z._
