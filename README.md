@@ -32,34 +32,34 @@ Total: **324,025** lines of code across **2073** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.2` (2026-10-20)
-- **Last commit**: 2026-11-05
+- **Latest**: `v2.0.3` (2026-11-07)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 30,942 · **Forks**: 3,033 · **Open issues**: 678 · **Contributors**: 280
+- **Stars**: 30,959 · **Forks**: 3,038 · **Open issues**: 680 · **Contributors**: 280
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 1427 · **Open PRs**: 200 · **Closed issues**: 589 · **Open issues**: 89 · **Commits**: 1687
+- **Releases**: 117 · **Merged PRs**: 1428 · **Open PRs**: 204 · **Closed issues**: 589 · **Open issues**: 91 · **Commits**: 1688
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 3 | 90 | 40 | 40 | 11 | 94 |
-| last60d | 2026-09-08 | 3 | 91 | 62 | 68 | 22 | 95 |
-| 90d | 2026-08-09 | 5 | 177 | 96 | 98 | 44 | 195 |
-| last180d | 2026-05-11 | 19 | 537 | 183 | 263 | 79 | 553 |
-| 360d | 2025-11-12 | 100 | 1427 | 200 | 589 | 89 | 1674 |
-| last720d | 2024-11-17 | 100 | 1427 | 200 | 589 | 89 | 1687 |
+| 30d | 2026-10-09 | 4 | 87 | 44 | 38 | 13 | 94 |
+| last60d | 2026-09-09 | 4 | 92 | 66 | 68 | 23 | 95 |
+| 90d | 2026-08-10 | 6 | 177 | 100 | 98 | 46 | 195 |
+| last180d | 2026-05-12 | 18 | 527 | 187 | 258 | 80 | 553 |
+| 360d | 2025-11-13 | 100 | 1428 | 204 | 589 | 91 | 1674 |
+| last720d | 2024-11-18 | 100 | 1428 | 204 | 589 | 91 | 1688 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [opencli-extension-v1.0.26.zip](https://github.com/jackwener/OpenCLI/releases/download/v2.0.2/opencli-extension-v1.0.26.zip) | 47.1 KiB | `other` |
+| [opencli-extension-v1.0.27.zip](https://github.com/jackwener/OpenCLI/releases/download/v2.0.3/opencli-extension-v1.0.27.zip) | 48.0 KiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for OpenCLI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:38:41Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:33:26Z._
